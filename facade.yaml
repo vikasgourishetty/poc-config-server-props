@@ -1,7 +1,7 @@
 facade:
-  eapi1:
+  eapi:
     points:
       mainframe:
-        enable1: true
+        enable: false
       saas:
-        enable1: false
+        enable: false
