@@ -3,8 +3,8 @@ test:
 
 eapi:
   earn:
-    enable-legacy-flow: true
-    enable-saas-flow: false
+    enable-legacy-flow: false
+    enable-saas-flow: true
 
 jboss:
   create-profile:
