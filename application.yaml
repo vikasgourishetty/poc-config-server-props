@@ -1,2 +1,12 @@
 test:
   val: v
+
+eapi:
+  earn:
+    enable-legacy-flow: true
+    enable-saas-flow: false
+
+jboss:
+  create-profile:
+    enable-legacy-flow: true
+    enable-saas-flow: false
