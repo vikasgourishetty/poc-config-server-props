@@ -3,7 +3,7 @@ test:
 
 eapi:
   earn:
-    enable-legacy-flow: false
+    enable-legacy-flow: true
     enable-saas-flow: true
 
 jboss:
